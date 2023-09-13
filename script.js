@@ -7,7 +7,7 @@ function average() {
     }
     average /= arr.length;
     if(average){
-        alert("среднее арифметическое чисел массива = " + average);
+        alert("Среднее арифметическое чисел массива = " + average);
     } else{
         alert("Введены некорректные данные");
     }
